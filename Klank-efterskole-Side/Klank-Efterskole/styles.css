@@ -145,7 +145,7 @@ header{
 .hero{
     width: 100%;
     height: 100vh;
-    background:url(Klank baggrund) center no-repeat;
+    background:url(images/BaggrundKlank.png) center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
