@@ -36,6 +36,11 @@ p{
     font-size: 1.6rem;
 }
 
+.introvid{
+    display:flex;
+    justify-content: center;
+}
+
 .container{
     width:100%;
     max-width: 122.5rem;
